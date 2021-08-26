@@ -2,7 +2,7 @@
 
 A new Flutter package project.
 
-[![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dartlang.org/packages/flutter_pigeon)
+![Pub Version](https://img.shields.io/pub/v/flutter_pigeon)
 
 ## Getting Started
 
