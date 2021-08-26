@@ -1,6 +1,7 @@
 # flutter_pigeon
 
 A new Flutter package project.
+[![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dartlang.org/packages/flutter_pigeon)
 
 ## Getting Started
 
